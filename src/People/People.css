@@ -1,0 +1,15 @@
+.container {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+.error-message {
+  color: red;
+}
+
+.merge-button {
+  margin-top: 20px;
+  background-color: skyblue;
+  width: 200px;
+}
